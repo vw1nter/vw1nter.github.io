@@ -1,0 +1,126 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
+  <diagram name="第 1 页" id="3IHzm50JKJQzM4O_zxGM">
+    <mxGraphModel dx="1169" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C59yJh74mJnRE7Vw3i1L-2" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="600" y="80" as="sourcePoint" />
+            <mxPoint x="600" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="启动程序&lt;div&gt;初识化pygame&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="540" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-5" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;初始化棋盘，&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;全局变量&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;选择页面显示" vertex="1">
+          <mxGeometry height="60" width="130" x="540" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-8" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6bWF7SabTjuuSZPlXt2a-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-10" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6bWF7SabTjuuSZPlXt2a-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605.3333333333333" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-12" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="开始游戏" vertex="1">
+          <mxGeometry height="80" width="80" x="565" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-7" parent="1" style="whiteSpace=wrap;html=1;" value="退出游戏" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="760" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="人机对战" vertex="1">
+          <mxGeometry height="80" width="80" x="565.0033333333332" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-16" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159.66666666666652" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="人人对战" vertex="1">
+          <mxGeometry height="80" width="80" x="120" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-21" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6bWF7SabTjuuSZPlXt2a-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-20" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="黑棋落子" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-41" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6bWF7SabTjuuSZPlXt2a-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-43" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-44" connectable="0" parent="6bWF7SabTjuuSZPlXt2a-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="0.061" y="6" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="判断是否黑色棋子是否连成五子" vertex="1">
+          <mxGeometry height="80" width="180" x="70" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-42" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6bWF7SabTjuuSZPlXt2a-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-25" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="白棋落子" vertex="1">
+          <mxGeometry height="40" width="120" x="100" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-47" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6bWF7SabTjuuSZPlXt2a-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1250" />
+            </Array>
+            <mxPoint x="380" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-36" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="判断白色棋子是否连成五子" vertex="1">
+          <mxGeometry height="80" width="180" x="70" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-46" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-45" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="弹出黑棋子胜利" vertex="1">
+          <mxGeometry height="60" width="120" x="445" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-49" edge="1" parent="1" source="6bWF7SabTjuuSZPlXt2a-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="599.9999999999998" y="1250.5882352941178" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bWF7SabTjuuSZPlXt2a-48" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="弹出白字胜利" vertex="1">
+          <mxGeometry height="60" width="120" x="419.9999999999998" y="1220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
